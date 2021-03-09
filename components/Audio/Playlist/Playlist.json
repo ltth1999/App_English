@@ -1,0 +1,125 @@
+[
+    {
+      "id": "1111",
+      "url": "https://s3-ap-southeast-1.amazonaws.com/x3english.com/20161107/1.+Thank+you%2C+Mom.mp3",
+      "title": "Lesson 1",
+      "artist": "Thank you, Mom",
+      "artwork": "https://m.media-amazon.com/images/I/41oEPIDK4LL._AA256_.jpg",
+      "duration": 143
+    },
+    {
+      "id": "2222",
+      "url": "https://s3-ap-southeast-1.amazonaws.com/x3english.com/20161107/2.+Try+to+Sleep.mp3",
+      "title": "Lesson 2",
+      "artist": "Try to sleep",
+      "artwork": "https://images.squarespace-cdn.com/content/v1/565a1fb4e4b09e2585567936/1522894027423-V1YLFY88ALSSTYHCHHNC/ke17ZwdGBToddI8pDm48kHhlTY0to_qtyxq77jLiHTtZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7T-j82ScS_xjTqFYGqFrT72qZ_E0ELtHpOZiWcSG1QwIMeEVreGuQ8F95X5MZTW1Jw/sleep%2B%281%29.png",
+      "duration": 77
+    },
+    {
+      "id": "3333",
+      "url": "https://s3-ap-southeast-1.amazonaws.com/x3english.com/20161107/3.+Red%2C+White+and+Blue.mp3",
+      "title": "Lesson 3",
+      "artist": "Washing Her Hands",
+      "artwork": "https://ih1.redbubble.net/image.1609019669.6670/flat,128x,075,f-pad,128x128,f8f8f8.jpg",
+      "duration": 71
+    },
+    {
+      "id": "4444",
+      "url": "https://s3-ap-southeast-1.amazonaws.com/x3english.com/20161107/5.+A+Thin+Man.mp3",
+      "title": "Lesson 4",
+      "artist": "A Thin Man",
+      "artwork": "https://static.thenounproject.com/png/2506063-200.png",
+      "duration": 71
+    },
+    {
+      "id": "5555",
+      "url": "https://s3-ap-southeast-1.amazonaws.com/x3english.com/20161107/6.+A+Piece+of+Paper.mp3",
+      "title": "Lesson 5",
+      "artist": "A Piece of Paper",
+      "artwork": "https://is3-ssl.mzstatic.com/image/thumb/Purple4/v4/fc/c5/8b/fcc58bcf-39d2-7b82-a692-bce2eae5d50e/source/256x256bb.jpg",
+      "duration": 106
+    },
+    {
+      "id": "6666",
+      "url": "https://s3-ap-southeast-1.amazonaws.com/x3english.com/20161107/7.+Buy+A+New+Car.mp3",
+      "title": "Lesson 6",
+      "artist": "Buy A New Car",
+      "artwork": "https://image.flaticon.com/icons/png/128/3366/3366148.png",
+      "duration": 106
+    },
+    {
+      "id": "7777",
+      "url": "https://s3-ap-southeast-1.amazonaws.com/x3english.com/20161107/8.+Water+and+An+Apple.mp3",
+      "title": "Lesson 7",
+      "artist": "Water and An Apple",
+      "artwork": "https://cdn.iconscout.com/icon/premium/png-256-thumb/apple-27-99286.png",
+      "duration": 106
+    },
+    {
+      "id": "8888",
+      "url": "https://s3-ap-southeast-1.amazonaws.com/x3english.com/20161107/9.+Cold+Weather.mp3",
+      "title": "Lesson 8",
+      "artist": "Cold Weather",
+      "artwork": "https://images-na.ssl-images-amazon.com/images/I/614VxuRJPxL._CR204,0,1224,1224_UX256.jpg",
+      "duration": 106
+    },
+    {
+      "id": "9999",
+      "url": "https://s3-ap-southeast-1.amazonaws.com/x3english.com/20161107/11.+In+Love.mp3",
+      "title": "Lesson 9",
+      "artist": "In Love",
+      "artwork": "https://c-sf.smule.com/rs-s79/arr/8a/58/11c12427-b461-42ee-8e37-d157feff49d3.jpg",
+      "duration": 106
+    },
+    {
+      "id": "10000",
+      "url": "https://s3-ap-southeast-1.amazonaws.com/x3english.com/20161107/12.+A+Storm.mp3",
+      "title": "Lesson 10",
+      "artist": "A Storm",
+      "artwork": "https://m.media-amazon.com/images/I/41tRXiUijJL._AA256_.jpg",
+      "duration": 106
+    },
+    {
+      "id": "11111",
+      "url": "https://s3-ap-southeast-1.amazonaws.com/x3english.com/20161107/15.+Piano+Player.mp3",
+      "title": "Lesson 11",
+      "artist": "Piano Player",
+      "artwork": "https://i.pinimg.com/474x/78/d9/69/78d96935e2097269ca9fe2ec66f62e21.jpg",
+      "duration": 106
+    },
+    {
+      "id": "12222",
+      "url": "https://s3-ap-southeast-1.amazonaws.com/x3english.com/20161107/16.+Work%2C+Work.mp3",
+      "title": "Lesson 12",
+      "artist": "Work, Work",
+      "artwork": "https://s3.amazonaws.com/media.eremedia.com/uploads/2012/09/15180429/i-love-my-work.png",
+      "duration": 106
+    },
+    {
+      "id": "13333",
+      "url": "https://s3-ap-southeast-1.amazonaws.com/x3english.com/20161107/17.+Write+a+Letter.mp3",
+      "title": "Lesson 13",
+      "artist": "Write a Letter",
+      "artwork": "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/0b/52/99/0b52998c-5a1e-2cac-052d-479948acb264/source/256x256bb.jpg",
+      "duration": 106
+    },
+    {
+      "id": "14444",
+      "url": "https://s3-ap-southeast-1.amazonaws.com/x3english.com/20161107/19.+Fly+Away.mp3",
+      "title": "Lesson 14",
+      "artist": "Fly Away",
+      "artwork": "https://at-cdn-s01.audiotool.com/2016/04/07/documents/fly_away-HXd7t/4/cover256x256-5c672ce4c5f144cea3b3f640f1fe33b6.jpg",
+      "duration": 106
+    },
+
+    {
+      "id": "15555",
+      "url": "https://s3-ap-southeast-1.amazonaws.com/x3english.com/20161107/21.+Melted+Cheese.mp3",
+      "title": "Lesson 15",
+      "artist": "Melted Cheese",
+      "artwork": "https://i.pinimg.com/474x/c8/28/fe/c828febb999f906a728b0976dea29d98.jpg",
+      "duration": 106
+    }
+
+
+  ]
